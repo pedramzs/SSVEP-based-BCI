@@ -1,5 +1,4 @@
-# SSVEP
-SSVEP-based BCI for Robot Control
+# SSVEP-based BCI for Robot Control
 
 This project was a simpler approach for the data recording and processing in this paper:
 
